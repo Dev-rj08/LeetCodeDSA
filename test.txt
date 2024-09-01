@@ -1,2 +1,0 @@
-rh
-This is test file for git commands
